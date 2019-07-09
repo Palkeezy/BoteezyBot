@@ -1,1 +1,1 @@
-# BoteezyBot
+# Reminder Bot
